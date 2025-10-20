@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/al_mahaba/static/css/main.35f44c8b.css",
-    "main.js": "/al_mahaba/static/js/main.1d1cf208.js",
+    "main.js": "/al_mahaba/static/js/main.60f0a584.js",
     "static/media/logo.png": "/al_mahaba/static/media/logo.4b02079211b031055f66.png",
     "static/media/ph26.png": "/al_mahaba/static/media/ph26.5a5f5b90c8dec4387a89.png",
     "static/media/ph10.jpeg": "/al_mahaba/static/media/ph10.2e199212de7a261f4036.jpeg",
@@ -25,10 +25,10 @@
     "static/media/ph20.jpeg": "/al_mahaba/static/media/ph20.ac92ba5f87c3a7e3fb95.jpeg",
     "index.html": "/al_mahaba/index.html",
     "main.35f44c8b.css.map": "/al_mahaba/static/css/main.35f44c8b.css.map",
-    "main.1d1cf208.js.map": "/al_mahaba/static/js/main.1d1cf208.js.map"
+    "main.60f0a584.js.map": "/al_mahaba/static/js/main.60f0a584.js.map"
   },
   "entrypoints": [
     "static/css/main.35f44c8b.css",
-    "static/js/main.1d1cf208.js"
+    "static/js/main.60f0a584.js"
   ]
 }
