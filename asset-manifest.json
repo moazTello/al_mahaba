@@ -1,0 +1,34 @@
+{
+  "files": {
+    "main.css": "/al_mahaba/static/css/main.35f44c8b.css",
+    "main.js": "/al_mahaba/static/js/main.1d1cf208.js",
+    "static/media/logo.png": "/al_mahaba/static/media/logo.4b02079211b031055f66.png",
+    "static/media/ph26.png": "/al_mahaba/static/media/ph26.5a5f5b90c8dec4387a89.png",
+    "static/media/ph10.jpeg": "/al_mahaba/static/media/ph10.2e199212de7a261f4036.jpeg",
+    "static/media/ph27.jpeg": "/al_mahaba/static/media/ph27.f568e3de5b2907b7008c.jpeg",
+    "static/media/ph2.jpeg": "/al_mahaba/static/media/ph2.9042b9a17818e9720598.jpeg",
+    "static/media/ph14.jpeg": "/al_mahaba/static/media/ph14.c7d2846db98c4888f4c4.jpeg",
+    "static/media/ph3.jpeg": "/al_mahaba/static/media/ph3.79cc561a46632d76cc30.jpeg",
+    "static/media/ph12.jpeg": "/al_mahaba/static/media/ph12.be60b822801777fd0160.jpeg",
+    "static/media/ph9.jpeg": "/al_mahaba/static/media/ph9.59e2de4f91a9e59a899c.jpeg",
+    "static/media/ph15.jpeg": "/al_mahaba/static/media/ph15.0aa209561f6a82fb380d.jpeg",
+    "static/media/ph8.jpeg": "/al_mahaba/static/media/ph8.d43429653777f6f4aa3d.jpeg",
+    "static/media/ph25.jpeg": "/al_mahaba/static/media/ph25.78a66da943cc105e5ef9.jpeg",
+    "static/media/ph7.jpeg": "/al_mahaba/static/media/ph7.35f9c4ade26c828550d8.jpeg",
+    "static/media/ph13.jpeg": "/al_mahaba/static/media/ph13.6d5f611fe67e3b44ded1.jpeg",
+    "static/media/ph11.jpeg": "/al_mahaba/static/media/ph11.84846dd5653c28fe952a.jpeg",
+    "static/media/ph23.jpeg": "/al_mahaba/static/media/ph23.d1fe07d409261be6e19b.jpeg",
+    "static/media/ph24.jpeg": "/al_mahaba/static/media/ph24.ebea6c7277bf8b031747.jpeg",
+    "static/media/ph16.jpeg": "/al_mahaba/static/media/ph16.b05ec8eb7a1fa6ddabe4.jpeg",
+    "static/media/ph17.jpeg": "/al_mahaba/static/media/ph17.e37aefb9c5ddf5d6298d.jpeg",
+    "static/media/food.png": "/al_mahaba/static/media/food.3e3e5ac147e6e6f01436.png",
+    "static/media/ph20.jpeg": "/al_mahaba/static/media/ph20.ac92ba5f87c3a7e3fb95.jpeg",
+    "index.html": "/al_mahaba/index.html",
+    "main.35f44c8b.css.map": "/al_mahaba/static/css/main.35f44c8b.css.map",
+    "main.1d1cf208.js.map": "/al_mahaba/static/js/main.1d1cf208.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.35f44c8b.css",
+    "static/js/main.1d1cf208.js"
+  ]
+}
