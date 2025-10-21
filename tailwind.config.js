@@ -4,9 +4,7 @@ module.exports = {
   theme: {
     extend: {
       fontFamily: {
-        reem: ["'Reem Kufi', sans-serif"],
         kufam: ["'Kufam', sans-serif"],
-        amiri: ["'Amiri', serif"],
       },
     },
   },
