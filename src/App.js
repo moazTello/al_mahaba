@@ -6,7 +6,7 @@ function App() {
   return (
     <>
       <Routes>
-        <Route path="/al-mahaba" element={<Almahaba />} />
+        <Route path="/al_mahaba" element={<Almahaba />} />
       </Routes>
       <Toaster />
     </>
