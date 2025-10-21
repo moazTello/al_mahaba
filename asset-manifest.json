@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/al_mahaba/static/css/main.547be6f2.css",
-    "main.js": "/al_mahaba/static/js/main.b4991258.js",
+    "main.css": "/al_mahaba/static/css/main.821bc010.css",
+    "main.js": "/al_mahaba/static/js/main.abd12c99.js",
     "static/media/ph10.png": "/al_mahaba/static/media/ph10.81c18973507237e476ce.png",
     "static/media/ph6.png": "/al_mahaba/static/media/ph6.c2d989047ad67c3cb78f.png",
     "static/media/ph5.png": "/al_mahaba/static/media/ph5.a3c831d06e005673159a.png",
@@ -17,11 +17,11 @@
     "static/media/ph8.JPG": "/al_mahaba/static/media/ph8.8c8cd4abbe80f6c43a87.JPG",
     "static/media/ph1.jpg": "/al_mahaba/static/media/ph1.4f21f5a017413eb774fb.jpg",
     "index.html": "/al_mahaba/index.html",
-    "main.547be6f2.css.map": "/al_mahaba/static/css/main.547be6f2.css.map",
-    "main.b4991258.js.map": "/al_mahaba/static/js/main.b4991258.js.map"
+    "main.821bc010.css.map": "/al_mahaba/static/css/main.821bc010.css.map",
+    "main.abd12c99.js.map": "/al_mahaba/static/js/main.abd12c99.js.map"
   },
   "entrypoints": [
-    "static/css/main.547be6f2.css",
-    "static/js/main.b4991258.js"
+    "static/css/main.821bc010.css",
+    "static/js/main.abd12c99.js"
   ]
 }
