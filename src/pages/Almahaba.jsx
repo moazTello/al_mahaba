@@ -10,7 +10,7 @@ import ph8 from "../assets/ph8.JPG";
 import ph9 from "../assets/ph9.JPEG";
 import ph10 from "../assets/ph10.png";
 import ph11 from "../assets/ph11.JPG";
-import logo from "../assets/logo.png";
+import logo from "../assets/logo.PNG";
 import back from "../assets/backround.jpg";
 import back2 from "../assets/back2.png";
 
@@ -30,15 +30,18 @@ const Almahaba = () => {
   ];
 
   return (
-    <div dir="rtl" className="font-kufam bg-[#faf4ec] text-[#3b2e23] min-h-screen">
+    <div
+      dir="rtl"
+      className="font-kufam bg-[#faf4ec] text-[#3b2e23] min-h-screen"
+    >
       <header className="bg-gradient-to-r from-[#b88a55] to-[#d9a066] text-white py-4 shadow-md">
         <div className="container mx-auto flex justify-between items-center px-4">
           <div className="flex items-center justify-center">
-            {/* <img
-              className="h-16 rounded-full border-2 border-[#f5e4c3]"
+            <img
+              className="h-20 rounded-full border-2 border-[#f5e4c3] bg-slate-50"
               src={logo}
               alt="المحبة"
-            /> */}
+            />
             <h1 className="text-xl md:text-2xl font-bold mr-4 tracking-tight">
               مطعم المحبة
             </h1>
@@ -51,18 +54,20 @@ const Almahaba = () => {
         style={{ backgroundImage: `url(${back})` }}
       >
         <div className="absolute inset-0 bg-[#3b2e23]/60 flex flex-col justify-center items-center text-center text-[#f5e4c3]">
-          <h2 className="text-3xl md:text-4xl font-extrabold mb-3 drop-shadow-lg">
+          <h2 className="text-2xl md:text-4xl font-extrabold mb-3 drop-shadow-lg w-[90%]">
             أشهى المأكولات الشعبية السورية
           </h2>
-          <p className="text-xl my-5">تجربة أصيلة من مطبخ المحبة الميداني</p>
-          <p className="text-lg text-[#fff8e7]">
+          <p className="tex-lg md:text-xl my-5">
+            تجربة أصيلة من مطبخ المحبة الميداني
+          </p>
+          <p className="md:text-lg text-[#fff8e7]">
             نخاعات - مقادم - كرشة - باسماشكات
           </p>
         </div>
       </section>
 
       <section className="container mx-auto py-12 px-4">
-        <h3 className="md:text-3xl text-2xl font-bold text-center text-[#b88a55] mb-8 border-b-2 border-[#d9a066] inline-block">
+        <h3 className="md:text-2xl text-xl font-bold text-center text-[#b88a55] mb-8 border-b-2 border-[#d9a066] inline-block">
           قائمة الوجبات
         </h3>
         <div className="grid grid-cols-1 sm:grid-cols-2 md:grid-cols-3 gap-8 mt-8">
@@ -91,11 +96,11 @@ const Almahaba = () => {
         style={{ backgroundImage: `url(${back2})` }}
       >
         <div className="absolute inset-0 bg-[#3b2e23]/60 flex flex-col justify-center items-center text-center text-[#f5e4c3]">
-          {/* <img
-            className="h-24 rounded-full border-2 border-[#f5e4c3]"
+          <img
+            className="h-32 rounded-full border-2 border-[#f5e4c3] bg-slate-50"
             src={logo}
             alt="المحبة"
-          /> */}
+          />
           <p className="text-lg mt-5">ميدان - جزماتية</p>
           <p className="text-lg mt-2">تواصل معنا: 0935096981</p>
         </div>
