@@ -1,14 +1,14 @@
 {
   "files": {
-    "main.css": "/al_mahaba/static/css/main.821bc010.css",
-    "main.js": "/al_mahaba/static/js/main.abd12c99.js",
+    "main.css": "/al_mahaba/static/css/main.e874fb86.css",
+    "main.js": "/al_mahaba/static/js/main.4bb9dd3f.js",
     "static/media/ph10.png": "/al_mahaba/static/media/ph10.81c18973507237e476ce.png",
     "static/media/ph6.png": "/al_mahaba/static/media/ph6.c2d989047ad67c3cb78f.png",
     "static/media/ph5.png": "/al_mahaba/static/media/ph5.a3c831d06e005673159a.png",
     "static/media/ph4.JPG": "/al_mahaba/static/media/ph4.8b346ab3fe82d954e517.JPG",
     "static/media/back2.png": "/al_mahaba/static/media/back2.360d9d9f707ccfa40b5a.png",
     "static/media/ph7.JPG": "/al_mahaba/static/media/ph7.b5fd72ee484289b9085b.JPG",
-    "static/media/logo.png": "/al_mahaba/static/media/logo.4b02079211b031055f66.png",
+    "static/media/logo.PNG": "/al_mahaba/static/media/logo.ab26a94735a790c97ee3.PNG",
     "static/media/ph2.JPG": "/al_mahaba/static/media/ph2.c3bcad2e4f79478ea559.JPG",
     "static/media/backround.jpg": "/al_mahaba/static/media/backround.983ec7f95bfb9c8ce355.jpg",
     "static/media/ph9.JPEG": "/al_mahaba/static/media/ph9.f1c4e9b5ca316f7838ca.JPEG",
@@ -17,11 +17,11 @@
     "static/media/ph8.JPG": "/al_mahaba/static/media/ph8.8c8cd4abbe80f6c43a87.JPG",
     "static/media/ph1.jpg": "/al_mahaba/static/media/ph1.4f21f5a017413eb774fb.jpg",
     "index.html": "/al_mahaba/index.html",
-    "main.821bc010.css.map": "/al_mahaba/static/css/main.821bc010.css.map",
-    "main.abd12c99.js.map": "/al_mahaba/static/js/main.abd12c99.js.map"
+    "main.e874fb86.css.map": "/al_mahaba/static/css/main.e874fb86.css.map",
+    "main.4bb9dd3f.js.map": "/al_mahaba/static/js/main.4bb9dd3f.js.map"
   },
   "entrypoints": [
-    "static/css/main.821bc010.css",
-    "static/js/main.abd12c99.js"
+    "static/css/main.e874fb86.css",
+    "static/js/main.4bb9dd3f.js"
   ]
 }
